@@ -1,0 +1,23 @@
+body {
+  background-color: grey;
+}
+
+.header1 {
+  color: white;
+  background: #444444;
+  padding: 5px 5%;
+  display: flex;
+  align-items: center;
+}
+.searchbox {
+  align-items: center;
+  display: inline-flex;
+  padding: 0 60px;
+  }
+.home {
+  height: 1px;
+  width: 1px;
+  display: flex;
+  align-items: center;
+  padding: 0 60px;
+}
