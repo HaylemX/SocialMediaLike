@@ -1,7 +1,6 @@
 body {
   background-color: grey;
 }
-
 .header1 {
   color: white;
   background: #444444;
@@ -17,11 +16,20 @@ body {
 .home {
   display: flex;
   align-items: center;
-  padding: 0 60px;
+  padding: 0 10px;
 }
-
 .marketplace {
   display: flex;
   align-items: center;
-  padding: 0 60px;
+  padding: 0 10px;
+}
+.groups {
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+}
+.events {
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
 }
